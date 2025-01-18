@@ -15,7 +15,7 @@ I'm a Computer Science graduate student at SUNY Binghamton with a strong backgro
 - Optimized CI/CD pipelines for TD Bank
 - Enhanced system efficiency through monitoring improvements
 
-### Previously DevOps Engineer @ TCS
+### Previously Systems Engineer @ TCS
 - Led cross-functional team of 20+ Japanese professionals
 - Managed end-to-end server operations with 80% improved accuracy
 
