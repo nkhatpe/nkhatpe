@@ -1,14 +1,12 @@
-# Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Narendra Khatpe
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Narendra Khatpe</h1>
 
 ---
 
-I'm a **DevOps Engineer** with a strong foundation in **cloud infrastructure** and **system optimization**, currently pursuing my **Master's in Computer Science** at **SUNY Binghamton**. With over 2 years of professional experience at **Tata Consultancy Services**, I have demonstrated expertise in:
-
-- Streamlining CI/CD pipelines using **Jenkins** and **Terraform**, achieving a 30% reduction in deployment errors.  
-- Enhancing system efficiency by 50% through automation and optimization.  
-- Collaborating across global teams, including Japanese enterprises, to improve data delivery accuracy and operational workflows.  
-
-I thrive on building scalable systems, automating workflows, and implementing robust DevOps practices. Whether working on independent projects or in collaborative environments, I am driven by solving complex technical challenges and delivering impactful results.
+👋 **Welcome to my GitHub Profile!**  
+I'm a **DevOps Engineer** passionate about solving complex technical challenges, building scalable systems, and automating workflows. Currently pursuing my **Master's in Computer Science** at **SUNY Binghamton**, I thrive in environments that encourage innovation and collaboration. I enjoy leveraging my skills to make meaningful contributions and continuously grow in the ever-evolving tech landscape.
 
 ---
 
@@ -24,7 +22,7 @@ I thrive on building scalable systems, automating workflows, and implementing ro
 
 - 📍 **Location:** New York, United States  
 - 🔧 **Core Expertise:** Cloud Infrastructure, CI/CD, Automation, and System Optimization  
-- 💼 **Open to:** Full-time opportunities in DevOps, Software Engineering and related roles  
+- 💼 **Open to:** Full-time opportunities in DevOps and related roles  
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/narendra-khatpe/) | [Portfolio](https://nkhatpe.github.io/)
 
 ---
@@ -38,6 +36,7 @@ I thrive on building scalable systems, automating workflows, and implementing ro
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
