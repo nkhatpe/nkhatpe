@@ -13,7 +13,7 @@ I'm a **DevOps Engineer** passionate about solving complex technical challenges,
 ## 🚀 What I’m Currently Working On
 
 - Enhancing my skills in **cloud architecture** and **AI integration**.  
-- Building innovative solutions with **Kubernetes**, **Docker**, and **AWS**.  
+- Continuously learning about various technologies through AWS Educate and Microsoft Learn platforms.  
 - Seeking **DevOps** or **Software Engineering** opportunities to contribute and grow.
 
 ---
