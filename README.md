@@ -23,12 +23,6 @@ I'm a Computer Science graduate student at SUNY Binghamton with a strong backgro
 - Japanese Language Proficiency Certification (Level Q5 & Q4)
 - Led Tier-2 Team for Datadog and JP1 Systems with zero escalations
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkhatpe&theme=dark" alt="GitHub Streak"/>
-</p>
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/narendra-khatpe/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://nkhatpe.github.io/)
