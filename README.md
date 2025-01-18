@@ -15,29 +15,3 @@ I'm a Computer Science graduate student at SUNY Binghamton with a strong backgro
     "Databases": ["MongoDB", "MySQL", "Oracle"],
     "Tools": ["Git", "JIRA", "RabbitMQ", "Nginx"]
 }
-
-🎯 Current Focus
-
-🎓 Mastering advanced algorithms and system design
-🤖 Building AI-powered applications
-📊 Developing data analysis systems
-🔄 Optimizing distributed systems
-
-💡 Featured Projects
-
-Meme Trend Analysis System: Built scalable system analyzing 1M+ memes using MongoDB and REST APIs
-AI Pacman Projects: Implemented search algorithms, reinforcement learning, and probabilistic tracking
-Algorithm Implementations: Developed solutions for complex algorithmic problems using dynamic programming
-
-🌟 Professional Highlights
-
-Improved system efficiency by 50% through CI/CD pipeline optimization
-Led cross-functional team of 20+ Japanese professionals
-Achieved 80% increase in data delivery accuracy
-Mastered Japanese Language (JLPT N5, N4)
-
-📬 Let's Connect!
-
-💼 LinkedIn
-🌐 Portfolio
-📧 narendrakhatpe@gmail.com
