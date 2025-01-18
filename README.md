@@ -1,24 +1,35 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> My name is Narendra Khatpe</h1>
-=================================================================================================
+# Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> I'm Narendra Khatpe
 
-I'm a DevOps Engineer with a strong background in cloud infrastructure and system optimization, currently pursuing my Master's in Computer Science at SUNY Binghamton. With over 2 years of experience at Tata Consultancy Services, I've demonstrated expertise in optimizing CI/CD pipelines, reducing deployment errors by 30%, and enhancing system efficiency by 50%.
+---
 
-My passion lies in building scalable systems, automating workflows, and implementing robust DevOps practices. I excel in both independent projects and collaborative environments, particularly in scenarios requiring rapid problem-solving and system optimization.
+I'm a **DevOps Engineer** with a strong foundation in **cloud infrastructure** and **system optimization**, currently pursuing my **Master's in Computer Science** at **SUNY Binghamton**. With over 2 years of professional experience at **Tata Consultancy Services**, I have demonstrated expertise in:
 
-I bring a unique combination of technical expertise and cross-cultural communication skills, having led Japanese enterprise systems and achieved significant improvements in data delivery accuracy.
+- Streamlining CI/CD pipelines using **Jenkins** and **Terraform**, achieving a 30% reduction in deployment errors.  
+- Enhancing system efficiency by 50% through automation and optimization.  
+- Collaborating across global teams, including Japanese enterprises, to improve data delivery accuracy and operational workflows.  
 
-Open for opportunities.
+I thrive on building scalable systems, automating workflows, and implementing robust DevOps practices. Whether working on independent projects or in collaborative environments, I am driven by solving complex technical challenges and delivering impactful results.
 
-- 🔧 Currently enhancing my cloud architecture and AI skills
-- 🌍 Based in New York, United States
-- 🚀 Open to DevOps/Software Engineering opportunities
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/narendra-khatpe/)
-- 🌐 Portfolio - [Narendra Khatpe](https://nkhatpe.github.io/)
+---
 
-### Skills
+## 🚀 What I’m Currently Working On
+
+- Enhancing my skills in **cloud architecture** and **AI integration**.  
+- Building innovative solutions with **Kubernetes**, **Docker**, and **AWS**.  
+- Seeking **DevOps** or **Software Engineering** opportunities to contribute and grow.
+
+---
+
+## 🌍 Quick Facts
+
+- 📍 **Location:** New York, United States  
+- 🔧 **Core Expertise:** Cloud Infrastructure, CI/CD, Automation, and System Optimization  
+- 💼 **Open to:** Full-time opportunities in DevOps and related roles  
+- 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/narendra-khatpe/) | [Portfolio](https://nkhatpe.github.io/)
+
+---
+
+## 🛠️ Skills & Tools
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
@@ -34,9 +45,13 @@ Open for opportunities.
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" /></a>
 </p>
 
-### Socials
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://www.github.com/nkhatpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/narendra-khatpe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+---
