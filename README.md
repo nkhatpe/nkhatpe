@@ -17,7 +17,7 @@ I'm a Computer Science graduate student at SUNY Binghamton with a strong backgro
 
 ### Previously Systems Engineer @ TCS
 - Led cross-functional team of 20+ Japanese professionals
-- Managed end-to-end server operations with 80% improved accuracy
+- Managed end-to-end server operations for various Japanese Enterprise Systems
 
 ## 🏆 Achievements & Certifications
 - Japanese Language Proficiency Certification (Level Q5 & Q4)
