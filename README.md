@@ -1,44 +1,37 @@
 # Hi there! 👋 I'm Narendra Khatpe
-
 ### 💻 DevOps Engineer | 🎓 MS in Computer Science @ SUNY Binghamton
 
-I'm a DevOps Engineer with experience in optimizing CI/CD pipelines and system performance. Currently pursuing my Master's in Computer Science, I'm passionate about building scalable systems and automation solutions.
+I'm a Computer Science graduate student at SUNY Binghamton with a strong background in DevOps and software development. I'm passionate about building scalable systems and automation solutions.
 
 ## 🛠️ Tech Stack
-
 - **Languages:** Python, Java, C++, SQL, Bash/Shell Script
 - **DevOps & Cloud:** Jenkins, Docker, Kubernetes, AWS, Azure
 - **Frameworks:** Django, React
 - **Databases:** MongoDB, MySQL, Oracle
-- **Tools:** Git, Linux, Nginx, SonarQube, ServiceNow
+- **Tools:** Git, Linux, Nginx, SonarQube, CyberArk, ServiceNow
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
+### Previously DevOps Engineer @ TCS
+- Optimized CI/CD pipelines for TD Bank
+- Enhanced system efficiency through monitoring improvements
 
-### Meme Trend Analysis System
-- Built a scalable system analyzing 1M+ memes across social platforms
-- Implemented real-time toxicity detection with 98% accuracy
-- Tech: Python, MongoDB, REST APIs, Data Analysis
+### Previously DevOps Engineer @ TCS
+- Led cross-functional team of 20+ Japanese professionals
+- Managed end-to-end server operations with 80% improved accuracy
 
-### Academic Insights Automation ( Data Analysis on Students Records)
-- Automated performance tracking for 1,000+ students
-- Reduced manual effort by 70% through intelligent data processing
-- Tech: Python, Pandas, Excel Integration
-
-### Image Editor Application
-- Developed a real-time image processing application
-- Implemented various OpenCV algorithms for image manipulation
-- Tech: Python, Tkinter, OpenCV
-
-## 🏆 Achievements
-
+## 🏆 Achievements & Certifications
 - Japanese Language Proficiency Certification (Level Q5 & Q4)
 - Led Tier-2 Team for Datadog and JP1 Systems with zero escalations
-- Reduced deployment errors by 30% through CI/CD optimization
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkhatpe&theme=dark" alt="GitHub Streak"/>
+</p>
 
 ## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/narendra-khatpe/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://nkhatpe.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:narendrakhatpe@gmail.com)
 
 ---
