@@ -22,7 +22,7 @@ I'm a **DevOps Engineer** passionate about solving complex technical challenges,
 
 - 📍 **Location:** New York, United States  
 - 🔧 **Core Expertise:** Cloud Infrastructure, CI/CD, Automation, and System Optimization  
-- 💼 **Open to:** Full-time opportunities in DevOps and related roles  
+- 💼 **Open to:** Full-time opportunities in DevOps, Software Engineering and related roles  
 - 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/narendra-khatpe/) | [Portfolio](https://nkhatpe.github.io/)
 
 ---
